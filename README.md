@@ -1,5 +1,5 @@
 
-##Starting new Leo Program
+**Initializing of a new Leo Program**
 
 `leo new token_f3_vc`
 
